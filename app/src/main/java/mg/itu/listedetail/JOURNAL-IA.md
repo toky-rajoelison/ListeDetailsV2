@@ -1,0 +1,1 @@
+Manque de validation des entrées : La méthode ajouterAuPanier(poidsKg: Int) accepte n'importe quelle valeur entière., cohérente car les data ici peuvent etre négatifs ou autres, donc il recommande un ajout de (poid > 0) 
